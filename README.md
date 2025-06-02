@@ -113,7 +113,7 @@ border-radius: 50%;
  <h2>Sobre o Evento</h2>
     <p><strong>Data:</strong> 4 de setembro de 2025</p>
 <p><strong>Local:</strong> Cidade da Música, Salvador-BA</p>
-    <p style="color: #4c2c50; font-size: 20px;">A TechConnect ferece uma experiência incrível de uma discussão com desenvolvedores e designers profissionais sobre as novas tendências do mercado tecnológico!</p>
+    <p style="color: #4c2c50; font-size: 20px;">A TechConnect oferece uma experiência incrível de uma discussão com desenvolvedores e designers profissionais sobre as novas tendências do mercado tecnológico!</p>
   </section>
 
   <section>
